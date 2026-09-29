@@ -36,5 +36,3 @@ python main.py          # no pip install needed
 python -m unittest discover -s tests -v
 ```
 
-## Screenshots
-_Add screenshots of the menus and reports here (recommended)._
